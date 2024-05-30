@@ -35,6 +35,7 @@ METRICS_PRED_P_NDX=2
 METRICS_LOSS_NDX=3
 METRICS_SIZE = 4
 
+# From dlwpt github, see original training.py for commented code
 class ClassificationTrainingApp:
     def __init__(self, sys_argv=None):
         if sys_argv is None:

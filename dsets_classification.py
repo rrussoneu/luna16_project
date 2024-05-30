@@ -3,6 +3,7 @@
 Everything here is essentially the same as previously for dsets files
 Split by CT scans instead of by nodules like in the segmentation data set to avoid a data leak 
 With using both models
+Comes from dlwpt github, see original dset file for commented code following along book
 
 '''
 

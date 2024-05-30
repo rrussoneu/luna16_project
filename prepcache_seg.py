@@ -36,11 +36,6 @@ class LunaPrepCacheAppSeg:
             default=8,
             type=int,
         )
-        # parser.add_argument('--scaled',
-        #     help="Scale the CT chunks to square voxels.",
-        #     default=False,
-        #     action='store_true',
-        # )
 
         self.cli_args = parser.parse_args(sys_argv)
 
