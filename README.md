@@ -12,4 +12,6 @@ Because of this, an updated set for classification is found in dsets_classificat
 while an updated version uses the new dataset split. 
 
 The unification of the two models is the final step, and I am currently working through the final chapter of the project to complete this goal. Please note
-that this is still a work in progress, and jupyter notebooks still need to be completed and ran once the whole pipeline is working.
+that this is still a work in progress, and jupyter notebooks still need to be completed and ran once the whole pipeline is working, and various data files still need to be pushed.
+
+Textbook github: https://github.com/deep-learning-with-pytorch/dlwpt-code
